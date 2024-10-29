@@ -94,8 +94,8 @@ body {
 }
 
 .principal .logo {
-  height: 65vh;
-  width: 65vh;
+  height: auto;
+  max-width: 100%;
 }
 
 .principal .icon-exit {
